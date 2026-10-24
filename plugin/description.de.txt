@@ -1,0 +1,1 @@
+Macht die Zielprovinzen von Unionsquests im Questfenster anklickbar: Tooltip beim Darüberfahren, Klick wählt aus, Doppelklick springt hin. Auch das Königreich, das die Union verhindert, ist verlinkt.

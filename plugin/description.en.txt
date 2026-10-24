@@ -1,0 +1,1 @@
+Makes the goal provinces of union quests clickable in the quest window: hover for the tooltip, click to select, double-click to jump there. The kingdom that blocks the union is linked too.
